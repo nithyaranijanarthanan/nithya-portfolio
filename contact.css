@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://www.shutterstock.com/image-vector/black-dark-grey-portland-city-260nw-1984027484.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+*{color: #cccccc;
+font-display: swap;}
+button{
+    background-color: black;
+    border: solid rgb(49, 45, 45);
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+}
+button:hover{
+    background-color: rgb(54, 39, 44);
+    border: solid rgb(66, 66, 68);
+    border-radius: 30px;
+    width: 90px;
+    height: 30px;
+    color: rgb(245, 233, 233);}
+    .bt{
+        margin-top: 350px;
+        margin-left: 1200px;
+    }
+    i{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    i:hover{
+        font-size: larger;}

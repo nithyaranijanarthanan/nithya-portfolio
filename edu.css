@@ -1,0 +1,83 @@
+.educ{
+    border: solid  #5a5151 3px;
+    margin: 10px;
+    height: 380px;
+    border-radius: 150px;
+    padding: 10px;
+   margin-top: -15px;
+    background-color: rgb(99, 58, 58);
+    
+}
+.educ:hover{
+    height: 400px;
+    border-radius: 20px;
+    border: solid gray;
+    background-color: rgb(143, 110, 110);
+   
+    
+}
+.edu{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 80px;
+    height: 430px;
+
+}
+img
+{
+    margin-top: 15px;
+    width: 140px;
+    border-radius: 100px;
+    border: solid #726969;
+  
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUphWuNyVD1J31qmJWsAnYXxooAzeQwR3MFJ4jyY1CTBT3cSpqMuJQYc2F9DnWq-wteJ8&usqp=CAU");
+    background-color: rgb(0,0,0,0.1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+*{
+    color: black;
+}
+h1{
+    color: #cccccc;
+}
+#a{
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: solid  #807979;
+}
+button{
+    background-color: black;
+    border: solid rgb(17, 16, 16);
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    color: #cccccc;
+    
+}
+button:hover{
+    background-color: rgb(54, 39, 44);
+    border: solid rgb(72, 72, 75);
+    border-radius: 30px;
+    width: 90px;
+    height: 30px;
+    color: rgb(245, 233, 233);
+}
+.bt{
+    margin-top: 40px;
+    margin-left: -170px;
+}
+.btt{
+    margin-top: 40px;
+    margin-left: 800px;
+}
+.bu{
+    position: fixed;
+}

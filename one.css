@@ -1,0 +1,99 @@
+img{
+    width: 120px;
+    border-radius: 100px;
+    border: solid black;
+}
+li{
+    font-size: large;
+}
+p{
+    font-size: 20px;
+}
+.four{
+    float: left;
+    margin-left: 50px;    
+}
+.intro{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+.one{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/846/344/desktop-wallpaper-portfolio.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 3opx;
+    
+}
+*{color: #cccccc}
+#inte:hover{
+    font-size: larger;
+    border: solid white;
+}
+#int:hover{
+    font-size: larger;
+    border: solid white;
+}
+img:hover{
+    width: 150px;
+    border-radius: 100px;
+    border: solid white;
+}
+#a:hover{
+    font-size: larger;
+}
+#c:hover{
+    font-size: larger;
+}
+#d:hover{
+    font-size: larger;
+}
+#e:hover{
+    font-size: larger;
+}
+#f:hover{
+    font-size: larger;
+}
+.bt{
+    margin-top: 200px;
+    margin-left: 1200px;
+}
+button{
+    width: 90px;
+    height: 30px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3px;
+    background-color: gray;
+}
+b{
+    color: black;
+}
+i{
+    color: rgb(7, 6, 7);
+    font-size: 18px;
+}
+i:hover{
+    color: black;
+}
+button:hover{
+
+    color: rgb(51, 24, 16);
+    background-color: rgb(138, 133, 136);
+    border: solid #111010;
+    border-radius: 40px;
+    width: 90px;
+    height: 35px;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 4px;
+}
+.three{
+    position:sticky;
+}

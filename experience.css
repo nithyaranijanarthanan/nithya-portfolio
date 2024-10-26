@@ -1,0 +1,62 @@
+h1{
+    color: rgb(160, 31, 31);
+
+   }
+   p{
+    color:rgb(221, 202, 202);
+    font-size:large;
+   }
+   .bt{
+    margin-top: 330px;
+    margin-left: 50px;
+}
+.btt{
+    margin-top: -35px;
+    margin-left: 1200px;
+}
+button:hover{
+    background-color: rgb(54, 39, 44);
+    border: solid rgb(72, 72, 75);
+    border-radius: 30px;
+    width: 90px;
+    height: 30px;
+    color: rgb(245, 233, 233);}
+    button{
+        background-color: black;
+        border: solid rgb(70, 63, 63);
+        border-radius: 10px;
+        height: 30px;
+        width: 80px;
+        color:white;
+    }
+    body{
+        background-image: url("https://img.freepik.com/premium-photo/cryptic-conference-canvas-dark-office-background-photo_960396-53933.jpg");
+        background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    height: 600px;
+    }
+    .xpc{
+        display: grid;
+        grid-template-columns: 630px auto;
+        margin-left: 80px;
+        margin-top: 100px;
+      
+        
+    }
+    .xp{
+        border: solid white 4px;
+        margin-right: 20px;
+        border-radius: 40px;
+        padding: 10px;
+    }
+    .xp:hover{
+        border: solid rgb(143, 135, 135);
+        margin-right: 20px;
+        border: solid grey 4px;
+        border-radius: 50px;
+        padding: 10px;
+        
+    }
+
+  

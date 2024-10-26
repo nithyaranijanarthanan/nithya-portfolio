@@ -1,0 +1,87 @@
+h1{
+    color:rgb(165, 6, 6);
+}
+li{
+    font-size: large;
+   
+}
+body{
+    background-image: url("https://img.freepik.com/premium-photo/black-background-with-pattern-stars-words-word-it_994023-342727.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+    height: 1000px;
+}
+*{color:white;}
+.skills{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+}
+
+#a{
+    border: solid #cccccc;
+    border-radius: 20px;
+margin-right: 10px;
+margin-top: 40px;
+
+}
+#b{
+    border:solid #cccccc ;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+#c{
+    border:solid #cccccc ;
+    border-radius: 20px;
+    margin-right: 10px;
+    margin-top: 20px;}
+    
+#d{
+    border:solid #cccccc ;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 20px;}
+    .bt{
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .btt{
+        margin-top: -15px;
+        margin-left: 1200px;
+    }
+    button:hover{
+        background-color: rgb(54, 39, 44);  
+        border: solid rgb(72, 72, 75);
+        border-radius: 30px;
+        width: 90px;
+        height: 30px;
+        color: rgb(245, 233, 233);}
+        button{
+            background-color: black;
+            border: solid rgb(49, 45, 45);
+            border-radius: 10px;
+            height: 30px;
+            width: 80px;
+        }
+        .skill{
+            height:360px;
+            width:590px;
+            padding:10px;
+        }
+       
+        #a:hover{
+            border : solid gray;
+        }
+        #b:hover{
+            border : solid gray;
+        }
+        #c:hover{
+            border : solid gray;
+        }
+        #d:hover{
+            border : solid gray;
+        }
+   
+
